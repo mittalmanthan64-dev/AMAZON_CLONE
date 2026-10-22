@@ -1,0 +1,30 @@
+*{
+    color: hotpink;
+}
+/* UNiveral Slecotfr apply in whole web page */
+h1{
+    color: blue;
+}
+button{
+    color: aqua;
+    background-color: red;
+}
+p{
+    color: rgb(31, 208, 0);
+    
+}
+body{
+    background-color: rgb(97, 80, 13);
+} 
+/* Above are elemnt selector */
+/*two sytem there rgb and hexadecimal-15 numbers are used
+    r       g           b
+    0-255    0-255      0-255
+    00-ff    00-ff      00-ff
+    * /
+ /*for slecting colors we can visit coolors web it 
+ suggest great colors  */
+
+#Heading1{
+    color: bisque;
+}

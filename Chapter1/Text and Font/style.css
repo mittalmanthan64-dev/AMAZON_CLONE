@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    text-decoration: line-through;
+    text-decoration: overline;
+    text-decoration: underline;
+}
+#forh1{
+    text-align: right;
+    text-decoration: red wavy underline;
+    font-family: Arial;
+}
+a{
+    text-decoration: none;
+}
+#forh2{
+    text-align: center;
+    text-decoration: dotted overline line-through;
+    font-family: 'Segoe UI';
+}
+/* start /end also use but it use as start means right or 
+from rhweere item is starting  */
+/* here comma in font family we hv multiple fonts as 
+they hv comma in btween it act as falll back mech 
+ if browser doesnt support one it goes to another */
+#h1{
+    font-weight: lighter;
+}
+#h2{
+    font-weight: normal;
+}
+#h3{
+    font-weight: bold;
+}
+#h4{
+    font-weight: bolder;
+}
+/* font weight is form 100 to 900 */
